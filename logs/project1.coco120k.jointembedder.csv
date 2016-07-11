@@ -1,0 +1,14 @@
+iterations,train_pairwise_ranking_loss,test_pairwise_ranking_loss,iterations_done,resumed_from,epoch_interrupt_received,received_first_batch,epochs_done,training_started,batch_interrupt_received,epoch_started
+0,203.832077026,199.693313599,,,,,,,,
+162,203.593673706,200.482757568,162.0,,False,True,1.0,True,False,False
+324,203.750244141,199.807678223,324.0,,False,True,2.0,True,False,False
+486,203.795425415,200.612319946,486.0,,False,True,3.0,True,False,False
+648,203.806228638,199.83505249,648.0,,False,True,4.0,True,False,False
+810,203.735702515,200.201690674,810.0,,False,True,5.0,True,False,False
+972,203.741271973,199.54486084,972.0,,False,True,6.0,True,False,False
+1134,203.811660767,199.795883179,1134.0,,False,True,7.0,True,False,False
+1296,203.769485474,199.832565308,1296.0,,False,True,8.0,True,False,False
+1458,203.776687622,199.902526855,1458.0,,False,True,9.0,True,False,False
+1620,203.752380371,199.859741211,1620.0,,False,True,10.0,True,False,False
+1782,203.696929932,200.332458496,1782.0,,False,True,11.0,True,False,False
+1944,203.712982178,200.208282471,1944.0,,False,True,12.0,True,True,False

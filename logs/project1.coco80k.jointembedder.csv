@@ -1,0 +1,8 @@
+iterations,train_pairwise_ranking_loss,test_pairwise_ranking_loss,iterations_done,resumed_from,epoch_interrupt_received,received_first_batch,epochs_done,training_started,batch_interrupt_received,epoch_started
+0,203.709594727,199.634368896,,,,,,,,
+162,203.583236694,200.011108398,162.0,,False,True,1.0,True,False,False
+324,203.685714722,199.451705933,324.0,,False,True,2.0,True,False,False
+486,203.661575317,199.793212891,486.0,,False,True,3.0,True,False,False
+648,203.70614624,199.957626343,648.0,,False,True,4.0,True,False,False
+810,203.630371094,199.506530762,810.0,,False,True,5.0,True,False,False
+972,203.731719971,200.059143066,972.0,,False,True,6.0,True,False,False
