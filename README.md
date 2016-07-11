@@ -11,8 +11,8 @@
 - Foxhound
 - pycocotools
 
-##Dependancies
-I recommend installing the depedencies from the sources provided in /lib/ folder.
+##Dependencies
+I recommend installing the depedencies from the sources as provided in /lib/ folder.
 
 ##Pre-trained Models
 --------------------
